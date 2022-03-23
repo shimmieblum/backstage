@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.0.1-next.1
+
+### Patch Changes
+
+- 2a7d52ca2c: Override default commit message and author details in GitLab action
+- Updated dependencies
+  - @backstage/plugin-catalog-backend@1.0.1-next.1
+
 ## 1.0.1-next.0
 
 ### Patch Changes
